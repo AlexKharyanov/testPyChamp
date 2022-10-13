@@ -1,6 +1,6 @@
 print('Введи число')
 x = int(input())
-y = 5
+y = 21
 print(x + y)
 def get_utt():
     if x > y:
