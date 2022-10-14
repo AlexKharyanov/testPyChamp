@@ -1,6 +1,6 @@
 print('Введи число')
 x = int(input())
-y = 21
+y = 89
 print(x + y)
 def get_utt():
     if x > y:
